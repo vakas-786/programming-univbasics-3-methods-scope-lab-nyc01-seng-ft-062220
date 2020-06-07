@@ -3,6 +3,6 @@ def mario(phrase)
   puts phrase
 end
 
-def toadstool
+def toadstool(status)
   puts status
 end
